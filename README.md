@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pavithra-2810/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/pavithra-2810/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/pavithra-2810/leetcode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavithra-2810/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavithra-2810/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pavithra-2810/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
