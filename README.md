@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavithra-2810/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/pavithra-2810/leetcode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/pavithra-2810/leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/pavithra-2810/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavithra-2810/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/pavithra-2810/leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/pavithra-2810/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
