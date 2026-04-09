@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pavithra-2810/leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
+| [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
 ## Binary Search
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pavithra-2810/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
