@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pavithra-2810/leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/pavithra-2810/leetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
 ## Design
 |  |
 | ------- |
