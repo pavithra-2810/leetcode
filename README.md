@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pavithra-2810/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/pavithra-2810/leetcode/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
+| [2582-pass-the-pillow](https://github.com/pavithra-2810/leetcode/tree/master/2582-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
+| [2582-pass-the-pillow](https://github.com/pavithra-2810/leetcode/tree/master/2582-pass-the-pillow) |
 ## Design
 |  |
 | ------- |
