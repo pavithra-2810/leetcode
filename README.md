@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/pavithra-2810/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pavithra-2810/leetcode/tree/master/0162-find-peak-element) |
 | [0485-max-consecutive-ones](https://github.com/pavithra-2810/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/pavithra-2810/leetcode/tree/master/0136-single-number) |
 | [0401-binary-watch](https://github.com/pavithra-2810/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
