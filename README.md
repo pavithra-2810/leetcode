@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavithra-2810/leetcode/tree/master/0162-find-peak-element) |
+| [0485-max-consecutive-ones](https://github.com/pavithra-2810/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/pavithra-2810/leetcode/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/pavithra-2810/leetcode/tree/master/0896-monotonic-array) |
