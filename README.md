@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pavithra-2810/leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/pavithra-2810/leetcode/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/pavithra-2810/leetcode/tree/master/0401-binary-watch) |
 ## Recursion
 |  |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/pavithra-2810/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/pavithra-2810/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
