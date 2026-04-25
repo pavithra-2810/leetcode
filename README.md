@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavithra-2810/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pavithra-2810/leetcode/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/pavithra-2810/leetcode/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavithra-2810/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra-2810/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
