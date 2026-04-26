@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/pavithra-2810/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/pavithra-2810/leetcode/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pavithra-2810/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pavithra-2810/leetcode/tree/master/0162-find-peak-element) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pavithra-2810/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/pavithra-2810/leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pavithra-2810/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
 ## Trie
