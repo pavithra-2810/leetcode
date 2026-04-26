@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavithra-2810/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pavithra-2810/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra-2810/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavithra-2810/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavithra-2810/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Trie
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
