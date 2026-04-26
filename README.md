@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavithra-2810/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pavithra-2810/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra-2810/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavithra-2810/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavithra-2810/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Trie
 |  |
 | ------- |
