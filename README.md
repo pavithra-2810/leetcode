@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavithra-2810/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/pavithra-2810/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1748-sum-of-unique-elements](https://github.com/pavithra-2810/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/pavithra-2810/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## String
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1748-sum-of-unique-elements](https://github.com/pavithra-2810/leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
