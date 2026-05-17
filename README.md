@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pavithra-2810/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pavithra-2810/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/pavithra-2810/leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/pavithra-2810/leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavithra-2810/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pavithra-2810/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pavithra-2810/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/pavithra-2810/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavithra-2810/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/pavithra-2810/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/pavithra-2810/leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/pavithra-2810/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/pavithra-2810/leetcode/tree/master/1748-sum-of-unique-elements) |
