@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pavithra-2810/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/pavithra-2810/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pavithra-2810/leetcode/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/pavithra-2810/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/pavithra-2810/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0641-design-circular-deque](https://github.com/pavithra-2810/leetcode/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/pavithra-2810/leetcode/tree/master/0704-binary-search) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pavithra-2810/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/pavithra-2810/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/pavithra-2810/leetcode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavithra-2810/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/0905-sort-array-by-parity) |
