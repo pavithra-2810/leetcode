@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/pavithra-2810/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pavithra-2810/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
+| [3151-special-array-i](https://github.com/pavithra-2810/leetcode/tree/master/3151-special-array-i) |
 | [3467-transform-array-by-parity](https://github.com/pavithra-2810/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
