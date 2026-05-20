@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/pavithra-2810/leetcode/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavithra-2810/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/pavithra-2810/leetcode/tree/master/3174-clear-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pavithra-2810/leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pavithra-2810/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/pavithra-2810/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [3174-clear-digits](https://github.com/pavithra-2810/leetcode/tree/master/3174-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/pavithra-2810/leetcode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/pavithra-2810/leetcode/tree/master/1929-concatenation-of-array) |
 | [2582-pass-the-pillow](https://github.com/pavithra-2810/leetcode/tree/master/2582-pass-the-pillow) |
+| [3174-clear-digits](https://github.com/pavithra-2810/leetcode/tree/master/3174-clear-digits) |
 ## Design
 |  |
 | ------- |
